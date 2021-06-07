@@ -1,0 +1,1 @@
+https://dev.to/madhubankhatri/create-a-dictionary-app-using-django-and-beautifulsoup-5gd5
